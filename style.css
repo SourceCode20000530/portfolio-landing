@@ -11,14 +11,14 @@ body {
     justify-content: center;
     align-items: center;
     color: #fff;
-    background-image: 
+    background-image:
         linear-gradient(
             to right,
             rgba(0, 0, 0, 0.95) 0%,
             rgba(0, 0, 0, 0.90) 30%,
             rgba(0, 0, 0, 0) 100%
         ),
-    url(img/bg-main.png);
+        url(img/bg-main.png);
 
     background-size: cover;
     background-position: center;
